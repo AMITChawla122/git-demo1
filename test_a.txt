@@ -1,6 +1,2 @@
 #Demo git repository
 This is the first file in this repo
-
-some more tests
-
-some more ipsum
